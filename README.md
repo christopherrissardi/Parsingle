@@ -2,6 +2,9 @@
 
 Ferramenta criada com o intúito de como qualquer outra ferramenta de Parsing, analisar o texto bruto do HTML da página e extrair informações de URLS, IPs, servidores e outros. A ferramenta em questão é um projeto bem simples comparado a outros que existem por ai, porém é bem útil e bem fácil de usar.
 
+![image](https://github.com/user-attachments/assets/1396d9af-666e-4905-92b7-68260a9d9750)
+![image](https://github.com/user-attachments/assets/14f26ed5-2c8f-46e9-93c7-16cfe1017668)
+
 
 ## ✔️ Requisitos para uso
 
